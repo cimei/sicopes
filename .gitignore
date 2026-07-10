@@ -1,6 +1,7 @@
 /build
 /dist
 /instance/flask local.cfg
+/instance/flask_local.txt
 /__pycache__
 /migrations
 /project/__pycache__
@@ -13,6 +14,7 @@
 /project/instrumentos/__pycache__
 /project/users/__pycache__
 /compose.yaml
+/client.json
 /project/static/convenio.pdf
 /project/static/convenios.csv
 /project/static/acordos.csv
